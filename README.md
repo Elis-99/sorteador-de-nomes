@@ -2,6 +2,10 @@
 
 Este projeto consiste em uma aplicação web simples para sortear nomes para um amigo secreto. O usuário pode adicionar nomes a uma lista e, em seguida, sortear aleatoriamente um nome dessa lista.
 
+*TELA INICIAL:
+![image](https://github.com/user-attachments/assets/6f265d62-e07c-470c-bee3-caf81fb85dd2)
+
+
 ## Funcionalidades
 
 *   **Adicionar Nomes:** O usuário pode inserir nomes em um campo de texto e adicioná-los a uma lista.
