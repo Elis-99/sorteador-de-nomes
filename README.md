@@ -34,5 +34,3 @@ Este projeto consiste em uma aplicação web simples para sortear nomes para um 
 4.  Quando todos os nomes estiverem na lista, clique no botão "Sortear amigo".
 
 5.  O nome sorteado será exibido na tela.
-
-## Estrutura de Arquivos
